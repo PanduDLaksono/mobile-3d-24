@@ -1,0 +1,67 @@
+# Laporan Praktikum #1 - Pengantar Android Studio
+
+## Kompetensi
+
+Setelah menempuh materi percobaan ini, mahasiswa mampu mengenal:
+1. Mengetahui apa itu android studio
+2. Memahami fitur - fitur dan kegunaan dalam android studio
+
+## Ringkasan Materi
+
+1. Android studio merupakan sebuah program yang dikeluarkan oleh google yang dipergunakan untuk mendeveloping program berbasis android
+
+## Praktikum
+
+### Percobaan Hello World!
+
+1. Pertama, jalankan android studio, setelah itu terdapat pilihan pilih new project
+
+   ![contoh screenshot](img/1.png)<br>
+
+2. Kemudian pada menu template pilih blank activity 
+   
+   ![contoh screenshot](img/2.png)<br>
+
+3. Setelah itu, setting nama project, package, direktori project disimpan, bahasa pemrograman yang digunakan, dan versi minimal android yang dapat digunakan
+
+   ![contoh screenshot](img/3.png)<br>
+
+4. Setelah project berhasil dibuat, maka akan diarahkan ke mainActivity.java. Untuk mengedit anda dapat masuk ke activity_main.xml. Dapat dipilih berdasarkan desain/kode/keduanya.
+
+   ![contoh screenshot](img/5.png)<br>
+   ![contoh screenshot](img/6.png)<br>
+   ![contoh screenshot](img/7.png)<br>
+
+5. Untuk menjalankan project atau aplikasi, saya menggunakan device saya yaitu Xiaomi Redmi 5A. Pertama nyalakan USB debugging, kemudian aktifkan allow install unknown aplication
+6. Pada bagian android studio terlihat device sudah terdeteksi, kemudian klik tombol run disebelahnya
+
+   ![contoh screenshot](img/8.png)<br>
+
+7. Pada device akan muncul sebuah nontifikasi untuk install aplikasi, pilih install
+
+   ![contoh screenshot](img/9.jpg)<br>
+
+8. Berikut tampilan jika aplikasi berhasil diinstall di device
+
+   ![contoh screenshot](img/10.jpg)<br>
+
+
+
+Berikut untuk link ke file main activity : [klik untuk menuju file ](../../src/01_Pengantar_Android_Studio/MainActivity.java)
+
+Berikut untuk link ke file activity_main : [klik untuk menuju file ](../../src/01_Pengantar_Android_Studio/activity_main.xml)
+
+
+## Kesimpulan
+
+Android Studio digunakan untuk membuat aplikasi android, dan terdapat beberapa varian SDK dari versi Ice Cream sampai R. Dalam pembuatan aplikasi android, dapat menggunakan bahasa java dan kotlin.
+
+## Pernyataan Diri
+
+Saya menyatakan isi tugas, kode program, dan laporan praktikum ini dibuat oleh saya sendiri. Saya tidak melakukan plagiasi, kecurangan, menyalin/menggandakan milik orang lain.
+
+Jika saya melakukan plagiasi, kecurangan, atau melanggar hak kekayaan intelektual, saya siap untuk mendapat sanksi atau hukuman sesuai peraturan perundang-undangan yang berlaku.
+
+Ttd,
+
+***(Pandu Dwi Laksono)***
