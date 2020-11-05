@@ -1,0 +1,176 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\b60ef4775faf4123eed66073e8cb7f99\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\035447f66ba39ea6749fbee78f1c3686\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\5076df0f45dedc9a8264659fad1a572d\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\3581591912c62dc221ee34f17f38bf53\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\364ce6ee3254d62ea2af04a500f4eac2\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\2a094978c1b3cea5d7cc81968b237427\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\4f7658d58f1d81105dab5413e15c2f5c\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\f834a8c6750e89fb32e44e52dfdf01e7\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\9d105b36ecf57fc0438ff9aef71d1c8f\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\87dd3d01687de1ea0425206e9b79a2c6\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\a2d5ac1aa20c3c9225590f4e243b0461\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\a4825ae588e0c7aa2ff21c26f704541c\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\ec8a6ba5cdf08656005f2551c432166d\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\f910ebad359911bef3e93b77d6979710\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\42991527203f2b15d13e4bb58102a81e\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\5d7d0606598deb346d462d6ad2f6ed8c\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\34e993ed9a5f2971dd90a63985bddf71\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\d623840e7549ce2cfd5d060392e60eb3\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\52187bc64598017c99f7f1ac4474bb3c\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\cd56ec1f85964622700d7ab0658d781c\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\001afb9a4fdc83909df5b0a940f53985\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\19d4ae5b865ffc9d7cd7fd6f46eff155\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\4413cc7af766fdc3913e50e6a42ff582\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\45d3f4723c544c37b794b8428e20fba2\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\da5449e1d4fd3e521b88b09aee3609bf\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\6daf00d9a011c42536fcfe2988f46cb7\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\b934d19721dfb0e2039f5b399727dc61\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\45909f27622ede943996074002d83c10\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\9857c63369e8fccde79af2af60bab542\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\0e41dc02944466b3d992b5f5447e43be\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\2552c866e5cf7dbe2f35688866fa715e\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+	package
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:19:5-44
+		INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+		INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:18:1-41:12
+		INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:21:5-39:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\b60ef4775faf4123eed66073e8cb7f99\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\b60ef4775faf4123eed66073e8cb7f99\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\035447f66ba39ea6749fbee78f1c3686\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\035447f66ba39ea6749fbee78f1c3686\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\52187bc64598017c99f7f1ac4474bb3c\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\52187bc64598017c99f7f1ac4474bb3c\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\cd56ec1f85964622700d7ab0658d781c\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\cd56ec1f85964622700d7ab0658d781c\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\52187bc64598017c99f7f1ac4474bb3c\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.droidcafe.MainActivity
+ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:28:9-37:20
+	android:label
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:35:27-74
+activity#com.example.android.droidcafe.OrderActivity
+ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:38:9-60
+	android:name
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:38:19-48
+uses-sdk
+INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml
+INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\b60ef4775faf4123eed66073e8cb7f99\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\b60ef4775faf4123eed66073e8cb7f99\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\035447f66ba39ea6749fbee78f1c3686\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\035447f66ba39ea6749fbee78f1c3686\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\5076df0f45dedc9a8264659fad1a572d\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\5076df0f45dedc9a8264659fad1a572d\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\3581591912c62dc221ee34f17f38bf53\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\3581591912c62dc221ee34f17f38bf53\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\364ce6ee3254d62ea2af04a500f4eac2\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\364ce6ee3254d62ea2af04a500f4eac2\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\2a094978c1b3cea5d7cc81968b237427\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\2a094978c1b3cea5d7cc81968b237427\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\4f7658d58f1d81105dab5413e15c2f5c\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\4f7658d58f1d81105dab5413e15c2f5c\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\f834a8c6750e89fb32e44e52dfdf01e7\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\f834a8c6750e89fb32e44e52dfdf01e7\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\9d105b36ecf57fc0438ff9aef71d1c8f\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\9d105b36ecf57fc0438ff9aef71d1c8f\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\87dd3d01687de1ea0425206e9b79a2c6\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\87dd3d01687de1ea0425206e9b79a2c6\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\a2d5ac1aa20c3c9225590f4e243b0461\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\a2d5ac1aa20c3c9225590f4e243b0461\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\a4825ae588e0c7aa2ff21c26f704541c\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\a4825ae588e0c7aa2ff21c26f704541c\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\ec8a6ba5cdf08656005f2551c432166d\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\ec8a6ba5cdf08656005f2551c432166d\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\f910ebad359911bef3e93b77d6979710\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\f910ebad359911bef3e93b77d6979710\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\42991527203f2b15d13e4bb58102a81e\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\42991527203f2b15d13e4bb58102a81e\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\5d7d0606598deb346d462d6ad2f6ed8c\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\5d7d0606598deb346d462d6ad2f6ed8c\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\34e993ed9a5f2971dd90a63985bddf71\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\34e993ed9a5f2971dd90a63985bddf71\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\d623840e7549ce2cfd5d060392e60eb3\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\d623840e7549ce2cfd5d060392e60eb3\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\52187bc64598017c99f7f1ac4474bb3c\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\52187bc64598017c99f7f1ac4474bb3c\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\cd56ec1f85964622700d7ab0658d781c\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\cd56ec1f85964622700d7ab0658d781c\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\001afb9a4fdc83909df5b0a940f53985\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\001afb9a4fdc83909df5b0a940f53985\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\19d4ae5b865ffc9d7cd7fd6f46eff155\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\19d4ae5b865ffc9d7cd7fd6f46eff155\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\4413cc7af766fdc3913e50e6a42ff582\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\4413cc7af766fdc3913e50e6a42ff582\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\45d3f4723c544c37b794b8428e20fba2\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\45d3f4723c544c37b794b8428e20fba2\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\da5449e1d4fd3e521b88b09aee3609bf\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\da5449e1d4fd3e521b88b09aee3609bf\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\6daf00d9a011c42536fcfe2988f46cb7\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\6daf00d9a011c42536fcfe2988f46cb7\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\b934d19721dfb0e2039f5b399727dc61\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\b934d19721dfb0e2039f5b399727dc61\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\45909f27622ede943996074002d83c10\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\45909f27622ede943996074002d83c10\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\9857c63369e8fccde79af2af60bab542\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\9857c63369e8fccde79af2af60bab542\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\0e41dc02944466b3d992b5f5447e43be\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\0e41dc02944466b3d992b5f5447e43be\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\2552c866e5cf7dbe2f35688866fa715e\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\2552c866e5cf7dbe2f35688866fa715e\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml
+INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml
+		ADDED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml

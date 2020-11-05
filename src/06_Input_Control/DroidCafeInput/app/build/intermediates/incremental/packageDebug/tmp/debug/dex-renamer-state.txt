@@ -1,0 +1,4 @@
+#Fri Nov 06 00:37:33 ICT 2020
+base.0=E\:\\Mapel\\Polinema\\S5\\Pemrograman_Mobile\\mobile-3d-24\\src\\06_Input_Control\\DroidCafeInput\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
