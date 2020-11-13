@@ -4,12 +4,12 @@
         "source": "E:\\Mapel\\Polinema\\S5\\Pemrograman_Mobile\\mobile-3d-24\\src\\06_Input_Control\\DroidCafeInput\\app\\src\\main\\res\\drawable\\froyo_circle.png"
     },
     {
-        "merged": "E:\\Mapel\\Polinema\\S5\\Pemrograman_Mobile\\mobile-3d-24\\src\\06_Input_Control\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "E:\\Mapel\\Polinema\\S5\\Pemrograman_Mobile\\mobile-3d-24\\src\\06_Input_Control\\DroidCafeInput\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "E:\\Mapel\\Polinema\\S5\\Pemrograman_Mobile\\mobile-3d-24\\src\\06_Input_Control\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable_donut_circle.png.flat",
         "source": "E:\\Mapel\\Polinema\\S5\\Pemrograman_Mobile\\mobile-3d-24\\src\\06_Input_Control\\DroidCafeInput\\app\\src\\main\\res\\drawable\\donut_circle.png"
+    },
+    {
+        "merged": "E:\\Mapel\\Polinema\\S5\\Pemrograman_Mobile\\mobile-3d-24\\src\\06_Input_Control\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\Mapel\\Polinema\\S5\\Pemrograman_Mobile\\mobile-3d-24\\src\\06_Input_Control\\DroidCafeInput\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
         "merged": "E:\\Mapel\\Polinema\\S5\\Pemrograman_Mobile\\mobile-3d-24\\src\\06_Input_Control\\DroidCafeInput\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icecream_circle.png.flat",

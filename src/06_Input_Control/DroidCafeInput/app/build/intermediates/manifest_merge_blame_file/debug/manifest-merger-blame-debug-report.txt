@@ -30,7 +30,7 @@
 27        android:allowBackup="true"
 27-->E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:22:9-35
 28        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-28-->[com.android.support:support-compat:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\52187bc64598017c99f7f1ac4474bb3c\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+28-->[com.android.support:support-compat:28.0.0] C:\Users\bonek\.gradle\caches\transforms-2\files-2.1\da5479c95f2179d61aed7cd87995fcf0\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 29        android:debuggable="true"
 30        android:icon="@mipmap/ic_launcher"
 30-->E:\Mapel\Polinema\S5\Pemrograman_Mobile\mobile-3d-24\src\06_Input_Control\DroidCafeInput\app\src\main\AndroidManifest.xml:23:9-43
