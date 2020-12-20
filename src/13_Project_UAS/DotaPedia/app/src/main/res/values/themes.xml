@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Theme.DotaPedia.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.DotaPedia.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.DotaPedia.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
