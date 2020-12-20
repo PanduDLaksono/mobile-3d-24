@@ -4,5 +4,15 @@
     <string name="tab_text_1">Tab 1</string>
     <string name="tab_text_2">Tab 2</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_dota">Dota 2 is a multiplayer online battle arena MOBA video game developed and published by Valve.\n
+        The game is a sequel to Defense of the Ancients DotA, which was a community-created mod for \n
+        Blizzard Entertainments Warcraft III: Reign of Chaos and its expansion pack, The Frozen Throne. \n
+        Dota 2 is played in matches between two teams of five players, with each team occupying and defending \n
+        their own separate base on the map. Each of the ten players independently controls a powerful character, \n
+        known as a hero, who all have unique abilities and differing styles of play. During a match players \n
+        collect experience points and items for their heroes to successfully defeat the opposing teams heroes \n
+        in player versus player combat. A team wins by being the first to destroy the other teams Ancient, \n
+        a large structure located within their base.</string>
+    <string name="link_dota">https://store.steampowered.com/app/570/Dota_2/</string>
+    <string name="link_wiki">https://dota2.gamepedia.com/Heroes</string>
 </resources>

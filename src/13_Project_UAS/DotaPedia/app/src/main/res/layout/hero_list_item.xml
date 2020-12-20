@@ -23,7 +23,7 @@
                 android:scaleType="fitXY"
                 android:src="@drawable/ic_launcher_background"
                 android:layout_width="150dp"
-                android:layout_height="150dp"/>
+                android:layout_height="100dp"/>
 
             <TextView
                 android:id="@+id/txt_hero_name"

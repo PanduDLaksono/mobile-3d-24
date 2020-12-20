@@ -11,12 +11,13 @@ public class Hero {
     private List<String> roles;
     private String img;
     private String legs;
+    private String lore;
 
     public Hero() {
 
     }
 
-    public Hero(String id, String name, String localized_name, String primary_attr, String attack_type, List<String> roles, String img, String legs) {
+    public Hero(String id, String name, String localized_name, String primary_attr, String attack_type, List<String> roles, String img, String legs, String lore) {
         this.id = id;
         this.name = name;
         this.localized_name = localized_name;
@@ -25,6 +26,7 @@ public class Hero {
         this.roles = roles;
         this.img = img;
         this.legs = legs;
+        this.lore = lore;
     }
 
     public String getId() {
@@ -89,5 +91,13 @@ public class Hero {
 
     public void setLegs(String legs) {
         this.legs = legs;
+    }
+
+    public String getLore() {
+        return lore;
+    }
+
+    public void setLore(String lore) {
+        this.lore = lore;
     }
 }

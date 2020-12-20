@@ -12,8 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DotaPedia"
         android:usesCleartextTraffic="true">
-        <activity android:name=".AboutActivity"></activity>
-        <activity android:name=".InfoActivity" />
+        <activity android:name=".DInfoActivity"></activity>
+        <activity android:name=".AboutActivity" />
         <activity android:name=".DHero" />
         <activity
             android:name=".SplashActivity"

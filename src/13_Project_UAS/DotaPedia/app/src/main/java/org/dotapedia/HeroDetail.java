@@ -22,7 +22,7 @@ import org.dotapedia.Utils.Common;
 public class HeroDetail extends Fragment {
 
     ImageView hero_img;
-    TextView hero_name, hero_att, hero_tipe, hero_leg;
+    TextView hero_name, hero_att, hero_tipe, hero_leg, hero_lore;
     RecyclerView recycler_role;
 
     static HeroDetail instance;
@@ -64,6 +64,7 @@ public class HeroDetail extends Fragment {
         hero_att = (TextView) itemView.findViewById(R.id.name_tipe);
         hero_tipe = (TextView) itemView.findViewById(R.id.jenis_attack);
         hero_leg = (TextView) itemView.findViewById(R.id.jumlah_kaki);
+        hero_lore = (TextView) itemView.findViewById(R.id.lore);
 
         recycler_role = (RecyclerView) itemView.findViewById(R.id.recycler_role);
         recycler_role.setHasFixedSize(true);
@@ -82,6 +83,7 @@ public class HeroDetail extends Fragment {
         hero_att.setText(hero.getPrimary_attr());
         hero_tipe.setText(hero.getAttack_type());
         hero_leg.setText(hero.getLegs());
+        hero_lore.setText(hero.getLore());
 
         //set role
         HeroRoleAdapter roleAdapter = new HeroRoleAdapter(getActivity(), hero.getRoles());

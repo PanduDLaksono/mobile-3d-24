@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void Info(View view) {
-        Intent i = new Intent(MainActivity.this, InfoActivity.class);
+        Intent i = new Intent(MainActivity.this, DInfoActivity.class);
         startActivity(i);
     }
 
